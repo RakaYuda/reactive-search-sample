@@ -34,5 +34,3 @@ List package that i used in this project :
 - Redux Persist - Package for make a persist state management
 - React Bootstrap - For Make a component based on Bootstrap 5 framework
 - Typesript - For making strict js typing
-
-# reactive-search-sample
